@@ -7,6 +7,7 @@ if(!empty($_REQUEST['first'])){
 
 
 //echo 'Branch 22222';
+//I don't get it!
 
 // mysqli, object oriented way
 $servername = "localhost";
