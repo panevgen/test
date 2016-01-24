@@ -4,6 +4,10 @@ if(!empty($_REQUEST['first'])){
     print_r($_FILES);
     exit;
 }
+
+
+//echo 'Branch 22222';
+
 // mysqli, object oriented way
 $servername = "localhost";
 $username = "root";
